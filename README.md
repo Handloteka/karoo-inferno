@@ -11,9 +11,9 @@ Pola: Ekran Inferno, Prędkość, Moc, Tętno, Kadencja (Inferno).
 
 ## Pobierz
 
-**[⬇ Pobierz najnowszą wersję (APK)](https://github.com/Handloteka/karoo-inferno/releases/latest/download/inferno.apk)**
+**[⬇ Pobierz najnowszą wersję (APK)](https://github.com/Handloteka/karoo-inferno/raw/main/inferno.apk)**
 
-Wszystkie wersje: [Releases](https://github.com/Handloteka/karoo-inferno/releases)
+Aktualna wersja: **2.0** (17.10.2026)
 
 ## Instalacja
 
@@ -45,7 +45,7 @@ Odinstalowanie: `adb uninstall pl.handloteka.inferno`
 
 Animated "Inferno" data fields for the **Hammerhead Karoo 2**: flaming speed needle (from 30 km/h, edges from 50 km/h), flaming power bar (from 300 W), ECG heart rate and cadence.
 
-**[Download latest APK](https://github.com/Handloteka/karoo-inferno/releases/latest/download/inferno.apk)** · install via Hammerhead Companion app (share the link) or `adb install -r inferno.apk`.
+**[Download latest APK](https://github.com/Handloteka/karoo-inferno/raw/main/inferno.apk)** · install via Hammerhead Companion app (share the link) or `adb install -r inferno.apk`.
 
 Provided free, as is, without warranty. Not affiliated with Hammerhead.
 
